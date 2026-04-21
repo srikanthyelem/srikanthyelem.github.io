@@ -5,12 +5,17 @@ Led renewable energy integration, SCADA based monitoring enhancement, strengthen
 
 # Aspiring Electrical Engineer
 **Technical Skills:** PSCAD, PSS/E, MATLAB/Simulink, POWERWORLD, ASPEN Oneliner, OpenDSS, Typhoon HIL-Simulator, ETAP and Python.
+**Certified in:** PSCAD, Python
+## Contact Me
+**Phone Number:** xxx-xxx-xxxx
+**Email:** sy99b@umsystem.edu
+**Linkedin:** [_Updating Soon_]
 
 ## Education
-- Ph.D., Electrical and Computer Engineering     | University of Missouri-Kansas city (_Expected July-2026_) 
-- M.S., Electrical Engineering                   | University of Missouri-Kansas city (_Dec-2019_) 
-- M.Tech, Power Electronics                      | R G M College of Engineering and Technology-_A.P, India_ (_Dec-2015_) 
-- B.Tech, Electrical and Electronics Engineering | Bhimavaram Institute of Engineering and Technology-_A.P, India_ (_May-2012_) 
+- Ph.D., ECE | University of Missouri-Kansas city (_Expected July-2026_) 
+- M.S., EE  | University of Missouri-Kansas city (_Dec-2019_) 
+- M.Tech, Power Electronics  | R G M College of Engineering and Technology-_A.P, India_ (_Dec-2015_) 
+- B.Tech, EEE | Bhimavaram Institute of Engineering and Technology-_A.P, India_ (_May-2012_) 
 
 ## Work Experience
 **Electrical Engineer**
