@@ -1,29 +1,47 @@
-# About
-I'm Srikanth Yelem, an Electrical Engineer with 4+ years of experience delivering Power Systems, Power Electronics and Drives. \
-Applied load flow, short-circuit, arc flash and protection coordination studies to improve system reliability, fault selectivity and safety performance. \
-Led renewable energy integration, SCADA based monitoring enhancement, strengthening grid visibility and operational efficiency.
+# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
-# Aspiring Electrical Engineer
-**Technical Skills:** PSCAD, PSS/E, MATLAB/Simulink, POWERWORLD, ASPEN Oneliner, OpenDSS, Typhoon HIL-Simulator, ETAP and Python.
-**Certified in:** PSCAD, Python
-## Contact Me
-**Phone Number:** xxx-xxx-xxxx
-**Email:** sy99b@umsystem.edu
-**Linkedin:** [_Updating Soon_]
+![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-## Education
-- Ph.D., ECE | University of Missouri-Kansas city (_Expected July-2026_) 
-- M.S., EE  | University of Missouri-Kansas city (_Dec-2019_) 
-- M.Tech, Power Electronics  | R G M College of Engineering and Technology-_A.P, India_ (_Dec-2015_) 
-- B.Tech, EEE | Bhimavaram Institute of Engineering and Technology-_A.P, India_ (_May-2012_) 
+This repository contains starter code for Portfolio website created using NextJs. <br />
 
-## Work Experience
-**Electrical Engineer**
-- Performed load flow, short-circuit, and stability studies using PSS®E and PSCAD for a 132 kV transmission network expansion, improving voltage stability and ensuring reliable grid operation under varying demand conditions.
-- Conducted DER interconnection studies using OpenDSS for 60 MW solar integration at distribution level, evaluating voltage fluctuations, fault levels, and ensuring compliance with grid codes for stable network performance.
-- Developed inverter-based resource models in PSCAD, evaluating grid-forming and grid-following controls to support renewable integration and improve system stability under dynamic conditions.
+For Demo and Final Code checkout following link👇: <br />
+[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
+
+If you want to learn how to create it please follow below tutorial👇: <br />
+https://youtu.be/Yw7yWHigGKI <br />
+[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+
+---
+✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+
+---
+
+### Images of The Portfolio Website:
+
+![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
+![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
+![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
+![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
+![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
+![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
+![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
+![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
 
 
+### Resources Used in This Project
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+- Profile image in the home page created by using https://www.midjourney.com/ tool.
+- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+- Fonts from https://fonts.google.com/ <br />
+- Icons from https://iconify.design/ <br />
+- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+
+### External Libraries used in this project:
+
+- [framer-motion](https://www.framer.com/motion/) <br />
+- [Tailwind css](https://tailwindcss.com/) <br />
+
+
