@@ -1636,7 +1636,6 @@ input, select, textarea {
 
 		.image.fit {
 			display: flex;
-			width: 100%;
 			border-radius:50%;
 		}
 
