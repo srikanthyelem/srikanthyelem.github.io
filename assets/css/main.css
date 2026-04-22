@@ -1620,22 +1620,6 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-/* Circular Profile Image */
-.profile-circle {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin: 0 auto 20px auto;
-    border: 5px solid #49bf9d; /* Miniport accent color */
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-.profile-circle img {
-	display: block;
-    width: 100%;
-}
-
 /* Image */
 
 	.image {
