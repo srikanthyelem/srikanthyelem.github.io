@@ -1633,9 +1633,9 @@ input, select, textarea {
 		}
 
 		.image.fit {
-			width: 200px;        /* adjust size */
-            height: 200px;       /* must match width */
-            border-radius: 50%;  /* makes it circular */
+			width: 100px;        /* adjust size */
+            height: 100px;       /* must match width */
+            border-radius: 75%;  /* makes it circular */
             object-fit: cover;   /* keeps image centered & cropped */
 		}
 
